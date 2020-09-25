@@ -11,4 +11,4 @@ For this project, I was given a predesigned HTML and CSS file of a working site.
 
 ![](./assets/images/horiseon_img.png)
 
-### Link to my assingment --> https://jonelleadona.github.io/homework-horiseon-ja.github.io/
+### Link to my assingment --> https://jonelleadona.github.io/horiseon-ui-refractor.github.io/
